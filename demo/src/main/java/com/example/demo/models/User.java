@@ -18,7 +18,7 @@ public class User {
 	private String email;
 	
 	
-	
+	//this is the model class
 	public User(int id, String name, String email) {
 		super();
 		this.id = id;
