@@ -7,6 +7,6 @@ import com.example.demo.models.User;
 
 @Repository
 public interface UserRepository extends JpaRepository<User, Integer>{
-	
+	//this is repository file
 
 }
